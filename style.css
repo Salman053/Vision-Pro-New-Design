@@ -940,4 +940,8 @@ nav h3 {
 }
 .right{
     padding-right: 3rem ;
+
+    h2{
+        padding-right: 1rem;
+    }
 }
